@@ -2,12 +2,14 @@
 layout: post
 title:  "US Foreign Policy: Managed Chaos"
 date:   2017-04-08 23:06:20 -0400
-categories: US Empire
+categories: American-Empire
 ---
 
 **US Empire and it's Managed Chaos Strategy**
 
 In response to the 9/11 attack on NY, the US has embarked on a new type of foreign policy: managed chaos.  It's a term I read in an [article my Mike Whitney](http://www.unz.com/mwhitney/the-impending-clash-between-the-u-s-and-russia/ "UNZ: Impending clash between US and Russia"). Whitney quotes Russian foreign minister Sergey Lavrov saying that: 
+
+<!--excerpt-->
 
 "The concept of managed chaos appeared long ago as a method of strengthening US influence. Its basic premise is that managed chaos projects should be launched away from the United States in regions that are crucial for global economic and financial development. The Middle East has always been in the focus of politicians and foreign policy engineers in Washington. Practice has shown that this concept is dangerous and destructive, in particular for the countries where the experiment was launched, namely Iraq, Libya, Syria, Yemen and Afghanistan…In Iraq, Syria and Libya, this chaos was created intentionally.
 

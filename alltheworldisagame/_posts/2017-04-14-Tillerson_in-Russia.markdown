@@ -2,17 +2,19 @@
 layout: post
 title:  "Tillerson in Russia"
 date:   2017-04-14 15:06:20 -0400
-categories: russia, US Empire, Syria
+categories: russia American-Empire Syria
 ---
 
 
 **Tillerson in Russia**
 
-![Syrian flag](../_assets/Syria_flag.jpg)
+[![Tillerson and Lavrov press conference](../assets/Lavrov__Tillerson_press_conference.jpg)](https://youtu.be/yVsTCEy1IOI "Tillerson and Lavrov press conference")
 
 *Summary of Press Conference*
 
 Secretary of State Rex Tillerson and Russian Foreign Minister Sergey Lavrov held a press conference after a lengthy five hours of talks as well as an additional two hours that included President Vladamir Putin. Thier opening speeches and responses to reporters reflected their countries views and also their character.  Mr. Tillerson repeated talking points, made accusations and threats without evidence or rationale using few words with little depth and Mr. Lavrov provided a logical analysis, including context and history, without violating diplomatic conventions and steering clear of accusation.  Mr. Tillerson represents the views of the US Empire - an entity which feels it's actions can force a reality that it seeks and sees little need in explaining itself since it can co-erce and lie with impunity - wheras Mr. Lavrov represents a country, not an empire, motivated by clear national interests. 
+
+<!--excerpt-->
 
 Questions were put forth by Russia 24, Ria Novosti, the Associated Press, Fox News and CBS news.  The American reporters asked questions that assumed President Assad was some sort of outlaw or monster.  They repeated a previous reference to him as being an "animal" and asked about whether he would be charged with war crimes and patronized Lavrov with questions about what it would take for  Russia to stop supporting him. Rex Tillerson said that "as time goes by more and more evidence comes out" about how Assad used chemical weapons.  Mr. Lavrov requested actual evidence multiple times during his answers but none were forthcoming.  Apparently the US Empire is above such things. 
 

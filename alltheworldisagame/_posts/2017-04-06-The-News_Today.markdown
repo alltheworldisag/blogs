@@ -2,7 +2,7 @@
 layout: post
 title:  "Our Models"
 date:   2017-04-06 23:06:20 -0400
-categories:  world model, conflict model
+categories:  world-model conflict-model
 ---
 
 
@@ -15,6 +15,8 @@ US-Empire vs Russia-Iran-China
 2. Conflicts occur at the geographical boundaries between these camps. Often smaller countries are fought over and forced or persuaded into one camp or the other. 
 3. The camps are always trying to get advantage over the other and every conflict between nations is influenced by the two camps.
 4. Conflicts are driven by ideology/beliefs.
+
+<!--excerpt-->
 
 Conflict model:
 

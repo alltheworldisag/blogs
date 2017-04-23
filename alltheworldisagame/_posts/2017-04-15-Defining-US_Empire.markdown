@@ -8,9 +8,11 @@ categories: US Empire
 
 **Defining the US Empire**
 
-![US Empire](../_assets/US_Empire.png)
+![US Empire](../assets/US_Empire.png)
 
 What is the difference between a country, a coalition of countries and an Empire? I assert in this blog that the US is an Empire and I would like to provide some definition so that the term has meaning and is not considered a slander or insult by readers of the blog. 
+
+<!--excerpt-->
 
 *What is a country?*
 

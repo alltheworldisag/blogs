@@ -2,15 +2,16 @@
 layout: post
 title:  "Syria: we are at the edge of a cliff"
 date:   2017-04-09 21:06:20 -0400
-categories: russia, iran, US Empire, Syria
+categories:  syria American-Empire russia
 ---
 
 
 **Syria: we are at the edge of a cliff**
 
-![Syrian flag](../_assets/Syria_flag.jpg)
 
 A [short statement by the Kremlin](http://en.kremlin.ru/events/president/news/54256 "Kremlin: Telephone conversation with President of Iran Rouhani") today re-affirmed the Russia-Iran military alliance in Syria and promised to "boost these efforts to ensure stability and security in the Middle East."  [A statement by Ayatollah Khamenei](http://en.kremlin.ru/events/president/news/54256 "Khamenei: The US made a strategic mistake") described the US strike against the Syrian government as a strategic mistake. It's not much information but it speaks volumes by what it doesn't say: no softening of words, just solidification of current positions. 
+
+<!--excerpt-->
 
 Howerver, the US Empire's MSM propoganda is going into over-drive. A big movement by the US Empire is coming.  The MSM reported what seems to be a [fake statement](http://www.reuters.com/article/us-mideast-crisis-syria-allies-idUSKBN17B0K7 "Reuters: Assad allies say US attack crossed red lines") by Russia and Iran saying that the US crossed red lines in their attack and that Russia and Iran will respond the next time. The tag line for the reuters piece is from Amman, Jordan so you know it has to be fake.  No confirmation from Russia or Iran.  Russia Insider originally reported it then [called it fake and retracted their story](http://russia-insider.com/en/breaking-russia-and-iran-say-they-will-respond-force-if-us-strikes-syria-again/ri19518 "Reuters, Others, Report Fake Iran/Russia Statement on Syria — 'Russia Insider' Blindly Follows").  
 
