@@ -29,13 +29,21 @@ The Presidential system is actually a lot like the American system. The new Pres
 
 4) Introduce legislation such as the budget
 
-5) Make certain laws by decree
+5) Make certain laws by decree, but can be overturned by Parliament. 
 
-6) Appoint members of the judiciary
+6) [Appoint members of the judiciary](https://www.brookings.edu/blog/order-from-chaos/2017/04/13/the-turkish-constitutional-referendum-explained/) 
 
-All of these powers are possessed by the America president. The only major difference is the 5 year terms which seem to be an improvement on the American system. 
+(6 of 13 members of the High Council of Judges and Prosecutors (a body responsible for selecting new judges, prosecuters and promotions) will be appointed by the President.  Currently this body has 22 members with four appointed by the President. 
+The consitutional court will have 15 members with 12 appointed by the President. It used to have 17 members with roughly the same composition.)
 
-If Turkey is to be strong, stable and able lead it's own Sunni coalition, then the American Empire is weakened by the Turkish referendum because Turkey will run indepently of the foreign policy of the Empire and it will actually compete for influence among Sunni muslim countries with the Empire.  Russia is already competing so this may create a three-way race.  Rather than compete for influence in new states, the America Empire will have to spend energy keeping it's current clients as those clients now have options.  Egypt, for example, may have a choice between creating alliances with the US, Russia and Turkey.  
+
+Most of these powers are possessed by the American President.  The big difference is that the judiciary is selected in ways completely different than the American system.  Some commentators have criticized the new system by saying it gives the President too much control over the appointment of judges. However, the history of Turkey shows that the judciary has often interfered in politics by banning political parties, thus thwarting the will of the people.  Imagine if in the US a President that won election was dissallowed because the Republican or Democratic party was banned!? The new system will prevent that since many judges are appointed by the President but not so many that the President has full control of the judiciary.  The President appoints a minority of the judges on the High Council and the President's role in appointments to the Constiutional court will not change much after the referendum. 
+
+It seems to this observer that Turkish democracy is not threatened by the referendum.  The threat is the same as it has been for twenty years:  The opposition party (CHP) is inept. It is a liberal party and the leaders cannot put down their egos long enough to adjust the parties policies to fit mainstream Turkish society.  Therefore, they always lose and as a result Turkish society loses.  The AKP and its predecessors moved from the religious right to the conservative centre-right in order to capture  the support of the majority of the society. The CHP is unwilling to do that - probably still waiting to ride a military coup into power.  
+
+If you imagine the Turkish government with Erdogan in power forever you would be right to be concerned.  But if a real oppostiion party arose in Turkey then this new Presidential system would not stop them from influencing laws, governance and public opinion.  It is the presence of an effective oppostion that is the real check and balance in a democratic system.  Turkey doesnt have one. 
+
+If Turkey is to be strong, stable and able lead it's own Sunni coalition, then the American Empire is weakened by the Turkish referendum because Turkey will run indepently of the foreign policy of the Empire and it will actually compete for influence among Sunni muslim countries with the Empire.  Russia is already competing so this may create a three-way race.  Rather than compete for influence in new states, the American Empire will have to spend energy keeping it's current clients as those clients now have options.  Egypt, for example, may have a choice between creating alliances with the US, Russia and Turkey.  
 
 Turkey, like Iran have a long way to go to become true coalition leaders.  To successfully lead a coalition of countries requires military technology that neither currently posess.  But both countries are on that path and if they can remain politically stable they may reach it. 
 
