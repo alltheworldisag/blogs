@@ -10,16 +10,26 @@
     <main class="page-content" aria-label="Content">
       <div class="container">
       <div class="side-bar-left">  
-          <h2 ><span STYLE="color:DarkSlateGray"> Articles</span></h2>
+          <h2 >Previous Posts</h2>
+          <ul>
+            {% for post in site.posts %}
+             <li>
+                <a href="{{ post.url }}">{{ post.title }} {{post.date | slice: 0, 10}}</a>
+             </li>
+            {% endfor %}
+          </ul>
           <!--<img src="../assets/main-map-mini.png" alt="Main map" style="width:364px;height:559px;">-->
      </div>
      <div class="side-bar-right">  
-          <h2 ><span STYLE="color:DarkSlateGray"> The Current State of the Chessboard</span></h2>
+          <h2 >The Current State of the Chessboard</h2>
           <img src="../assets/main-map-mini.png" alt="Main map" style="width:364px;height:559px;">
      </div>
-      <div class="wrapper2">
-        {{ content }}
-      </div>
+     <div class="wrapper2">
+       {{ content }}
+        
+    </div>
+
+    
         
      <!-- <div id="clear"></div> -->
       </div>

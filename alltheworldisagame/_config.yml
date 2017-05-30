@@ -22,11 +22,14 @@ url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://
 twitter_username: alltheworldisagame
 github_username:  alltheworldisagame
 excerpt_separator: "<!--excerpt-->"
+paginate: 5
+paginate_path: "/archives/page:num/"
 # Build settings
 markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
+  - jekyll-paginate
 exclude:
   - Gemfile
   - Gemfile.lock
