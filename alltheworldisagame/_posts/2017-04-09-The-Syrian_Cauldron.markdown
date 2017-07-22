@@ -5,7 +5,7 @@ date:   2017-04-09 21:06:20 -0400
 categories:  syria American-Empire russia
 ---
 
-{% img post-images-medium {{site.url}}/assets/cliff-edge.jpg "Danger: Cliff Edge" %}
+{% img post-images-medium {{site.url}}/assets/cliff-edge.jpg "Cliff Edge" %}
 
 A [short statement by the Kremlin](http://en.kremlin.ru/events/president/news/54256 "Kremlin: Telephone conversation with President of Iran Rouhani") today re-affirmed the Russia-Iran military alliance in Syria and promised to "boost these efforts to ensure stability and security in the Middle East."  [A statement by Ayatollah Khamenei](http://en.kremlin.ru/events/president/news/54256 "Khamenei: The US made a strategic mistake") described the US strike against the Syrian government as a strategic mistake. It's not much information but it speaks volumes by what it doesn't say: no softening of words, just solidification of current positions. 
 
