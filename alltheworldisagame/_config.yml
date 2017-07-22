@@ -14,13 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: All The World is a Game 
-email: your-email@domain.com
+email: alltheworldisagame@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Understanding the New Great Game between world powers. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: alltheworldisagame
-github_username:  alltheworldisagame
+baseurl: "/allthworldisagame" # the subpath of your site, e.g. /blog
+url: "https://github.com/alltheworldisag/blogs" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: alltheworldisag
+github_username:  alltheworldisag
 excerpt_separator: "<!--excerpt-->"
 paginate: 5
 paginate_path: "/archives/page:num/"
