@@ -6,11 +6,9 @@ categories: American-Empire
 ---
 
 
-**Russia's Movements**
+{% img post-images-medium {{site.url}}/assets/russia-flag.png "Russia Flag" %}
 
-![Russia flag](../assets/Russia_flag.ico)
-
-*Afghanistan Peace Conference*
+***Afghanistan Peace Conference***
 
 Russia hosted a peace conference on Afghanistan in Moscow on April 14th, the same day the US dropped the Mother of All Bombs on Afghanistan.  The conference was attended by China, Pakistan, India, Iran, Afghanistan and Central Asian States - 11 alltogether but not the US.  It seems silly and tragic that the US would not attend but instead decided to drop a big bomb to show the world how insecure it is while thinking that it is showing strength.   
 
@@ -20,7 +18,7 @@ Russia has shown that the visit by Secretary of State Rex Tillerson did not diss
 
 This conference is another sign of Russia rising and hence the entire Eurasian bloc rising despite sanctions and war coming from the US Empire. 
 
-*Russia takes Egypt nuclear*
+***Russia takes Egypt nuclear***
 
 [Al-ahram is reporting ](http://english.ahram.org.eg/NewsContent/1/64/263003/Egypt/Politics-/Egypt-and-Russia-to-sign-contract-for-Dabaa-nuclea.aspx)that Russia and Egypt will sign a contract for Russia to build a nuclear power plant in Egypt.  Movements like this slowly sap the US Empires influence and cannot be stopped.  The knee-jerk and haphazard interference into Egyptian affairs by the US - especially under Obama - has left that country availalbe to be flipped away from the US Empire without war of bloodshed.  If the US loses Egypt it will open the floodgates to Sunni Arab states re-aligning with Russia.  The US has Egypt in it's control through debt and military subsidies but for how long?
 

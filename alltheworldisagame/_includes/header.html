@@ -1,17 +1,27 @@
-<header class="site-header2" role="banner">
-     
-  <!-- <div class="wrapper2"> -->
+<header role="banner">
+ 
+
+<div class="site-buttons">
+    <a href="https://twitter.com/share" class="twitter-share-button" data-related="AllTheWorldisaG" data-show-count="true">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
 <div class="site-header2">
     <a class="site-title2" href="{{ "/" | relative_url}}">{{ site.title | escape }}</a>
     <br>
-    <img src="../assets/xi.jpg" alt="Xi" width="100px" height="91px" style="padding-right:8px; padding-bottom:5px">
-    <img src="../assets/rouhani.jpg" alt="Rouhani" width="100px" height="91px" style="padding-right:8px; padding-bottom:5px">
-    <img src="../assets/Assad.jpg" alt="Assad" width="100px" height="91px" style="padding-right:8px; padding-bottom:5px"> 
-    <img src="../assets/putin.jpg" alt="Putin" width="100px" height="91px" style="padding-right:8px; padding-bottom:5px">
-    <img src="../assets/trump.jpg" alt="Trump" width="100px" height="91px" style="padding-right:8px; padding-bottom:5px">
-    <img src="../assets/netanyahu.jpg" alt="Netanyahu" width="100px" height="91px" style="padding-right:8px; padding-bottom:5px">
-    <img src="../assets/salman.jpg" alt="Salman" width="100px" height="91px" style="padding-bottom:5px">
+    {% img {{site.url}}/assets/xi.jpg 100px 91px "Xi" %}
+    {% img {{site.url}}/assets/rouhani.jpg 100px 91px "Rohani" %}
+    {% img {{site.url}}/assets/Assad.jpg 100px 91px "Assad" %}
+    {% img {{site.url}}/assets/putin.jpg 100px 91px "Putin" %}
+    {% img {{site.url}}/assets/trump.jpg 100px 91px "Trump" %}
+    {% img {{site.url}}/assets/netanyahu.jpg 100px 91px "Netanyahu" %}
+    {% img {{site.url}}/assets/salman.jpg 100px 91px "Salman" %}
+    
+  
     <h3>Understanding the Players and their Strategies</h3>
+</div>  
+
+</header>
+
       <!--
     <nav class="site-nav"> 
       <span class="menu-icon">
@@ -32,10 +42,18 @@
       </div>
     </nav>
   -->
-</div>      
+   
       
       
-      
+     <!-- 
+<img src="../assets/xi.jpg" alt="Xi" width="100px" height="91px" style="padding-right:8px; padding-bottom:5px"> 
+    <img src="../assets/rouhani.jpg" alt="Rouhani" width="100px" height="91px" style="padding-right:8px; padding-bottom:5px">
+    <img src="../assets/Assad.jpg" alt="Assad" width="100px" height="91px" style="padding-right:8px; padding-bottom:5px"> 
+    <img src="../assets/putin.jpg" alt="Putin" width="100px" height="91px" style="padding-right:8px; padding-bottom:5px">
+    <img src="../assets/trump.jpg" alt="Trump" width="100px" height="91px" style="padding-right:8px; padding-bottom:5px">
+    <img src="../assets/netanyahu.jpg" alt="Netanyahu" width="100px" height="91px" style="padding-right:8px; padding-bottom:5px">
+    <img src="../assets/salman.jpg" alt="Salman" width="100px" height="91px" style="padding-bottom:5px"> 
+-->    
  
 
  
@@ -44,4 +62,4 @@
 <span STYLE="font-family:'Times New Roman', Times, Serif;font-size:1.5em"</span>
 -->
     
-</header>
+

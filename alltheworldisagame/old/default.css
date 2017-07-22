@@ -1,0 +1,26 @@
+html {
+    background: #cbd1d1;
+    
+}
+
+body {
+    background: #fff;
+    box-shadow: 10px 10px black;
+    color: antiquewhite;
+    font-family: "Times New Roman", Georgia, Serif;
+    font-size: 62.5%;
+    margin: auto;
+    padding: 2em 2em 4em;
+}
+
+h1 {
+    color: #000;
+    font-weight: bold;
+    font-size: 100%;
+}
+
+d {
+    color: #000;
+    font-weight: normal;
+    font-size: 33%;
+}

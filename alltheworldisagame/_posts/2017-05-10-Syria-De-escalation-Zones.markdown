@@ -5,13 +5,13 @@ date:   2017-05-10 14:06:20 -0400
 categories:  US-Empire, Syria, Russia
 ---
 
-![De-escalation Zones](../assets/2017-05-05-brief01-eng.jpg){:width="75%"}
+{% img post-images-large {{site.url}}/assets/2017-05-05-brief01-eng.jpg "Syria De-escalation Zone map" %}
 
 [Larger version]("http://eng.mil.ru/en/news_page/country/more.htm?id=12121964@egNews") 
 
-*What are the De-escalation zones proposed by Russia?*
+***What are the De-escalation zones proposed by Russia?***
 
-De-escalation zones are areas of Syria in which all parties to the agreement will not fight each other.  The agreement is in the form of Memorandum of Understanding and it does not include ISIS and Al-Nusra (by whatever name it currently uses). 
+De-escalation zones are areas of Syria in which all parties to the agreement will cease fighting each other.  The agreement is in the form of a Memorandum of Understanding and it does not include ISIS and Al-Nusra (by whatever name it currently uses). 
 
 From [The Russian Ministry of Defence](http://eng.mil.ru/en/news_page/country/more.htm?id=12121964@egNews):
 
@@ -39,9 +39,9 @@ Colonel General Sergei Rudskoy:
 
 "De-escalation zones will allow the government troops to release many units. The Russian Aerospace Forces will continue supporting the Syrian Armed Forces while eliminating illegal armed groups of the ISIL international terrorist organization.
 
-*he main efforts will focused on the development of the offensive in the east from Palmyra and further lifting a siege of the Deir ez-Zor city."
+The main efforts will focused on the development of the offensive in the east from Palmyra and further lifting a siege of the Deir ez-Zor city."
 
-*Analysis*
+***Analysis***
 
 Takeaways:
 
@@ -53,7 +53,7 @@ Takeaways:
 
 The de-escalation zone agreement means that all the major players have decided to keep what they have and stop fighting for more except with respect to areas controlled by ISIS.  Turkey along with Nusra have Idlib province plus some small areas along the Turkish border.  Turkey has abandoned any goal of controlling more areas and would like to direct their attention towards reducing the position of the Kurds on the Syrian chessboard.  
 
-The  Empire's attempted coup against Erdogan made cooperation impossible and coordinated support of Sunni rebels/terrorists has been eliminated.  Therefore, the Assad-must-go policy ended some time ago.  In the aftermath of the coup attempt, Turkey gave up Aleppo province and also stopped supporting any further advance of Nusra and others under an agreement with Russia.  In return, Turkey was allowed to go after the Kurds and launch a ground invasion into an area of North Syria that split the Kurd areas in two portions, halted their advance and reduced their power.  That was some time ago and since then the situation in the North has stabilized.  The de-escalation zone is then a logical fit for the ground reality.  Idlib province's re-integration into Syria will become a political problem now. 
+The  Empire's attempted coup against Erdogan made cooperation impossible and coordinated support of Sunni rebels/terrorists has been eliminated.  Therefore, the Assad-must-go policy ended some time ago.  In the aftermath of the coup attempt, Turkey gave up Aleppo province and also stopped supporting any further advance of Nusra and others under an agreement with Russia.  In return, Turkey was allowed to go after the Kurds and launch a ground invasion into an area of North Syria that split the Kurd areas in two portions, halted their advance and reduced their power.  That was some time ago and since then the situation in the North has stabilized.  The de-escalation zone is then a logical fit for the ground reality.  Idlib province's re-integration into Syria will become a political problem to be solved at some later date. 
 
 Zone 4 in the south is acceptable to Israel since it effectively means that Hezbollah and Iranian troops will not be entering the south of Syria to start a second front against them (Lebanon being the first).  This situation will hold until the fighting in the East is settled.  Since Syrian and other troops will not be moving into the area, it gives an opening to the Empire to exert more effort to control the area.  Like Turkey, the Empire has been reduced to focus on it's primary concern.  For Turkey it is the threat of the Kurds, for the Empire it is the security of Israel.  Neither the Empire nor Turkey are interested any longer in Syria as a whole. 
 
@@ -61,4 +61,4 @@ What is left?  The Empire must decide if keeping Iran and Hezbollah out of the S
 
 The American Empire launched the war against Syria in the the hope of toppling Assad and flipping Syria to the Empire's side. This hope was the fundamental reason for fighting this war -  it has now been extinguished.   For it's trouble, Turkey won a piece of Syria (Idlib) and inherited two headaches: that Idlib is controlled by Al-Qaeda/Al-Nusra and that the Kurds are several steps closer to having a large state of their own. 
 
-The American Empire has gained control over a piece of South Syria for the protection of Israel but for that it has incurred some headaches of it's own: during the course of the war Iranian troops and Hezbollah received valuable field experience and are now battle-hardened and operating in places they had not seen previously.  Neither Hezbollah nor Iran were present in South Syria before the war. Hezbollah and the Syrian and Iranian military's have higher moral, experience coordinating with one another and with Russia as well.  None of these things existed before the war. 
+The American Empire has gained control over a piece of South Syria for the protection of Israel but for that it has incurred some headaches of it's own: during the course of the war Iranian troops and Hezbollah received valuable field experience and are now battle-hardened and operating in places they had not seen previously.  Neither Hezbollah nor Iran were present in South Syria before the war. Hezbollah and the Syrian and Iranian military's have higher morale, experience coordinating with one another and with Russia as well.  None of these things existed before the war. 
