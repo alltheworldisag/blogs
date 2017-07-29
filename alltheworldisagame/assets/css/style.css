@@ -86,7 +86,7 @@ causes a white rectangular block to appear down the right side of the website.
 }
 
 .side-bar-right {
-       background-color:antiquewhite;
+    background-color:antiquewhite;
     font-family: 'Alegreya', serif;
     position: relative;
     float: right;
@@ -98,7 +98,8 @@ causes a white rectangular block to appear down the right side of the website.
     padding: 5px;
     width: 20%;
     border: thick solid LightSlateGray;
-    color: #035bad;     
+    color: #035bad; 
+    text-align: center;
 }
 .side-bar-left {
     border: thick solid LightSlateGray;
@@ -214,6 +215,28 @@ causes a white rectangular block to appear down the right side of the website.
 .latest tr:nth-child(6) {
     background-color: #095987;
     color:white;
+}
+
+.article {
+    text-align: left;
+    background-color:antiquewhite;
+    font-family: 'Alegreya', serif;
+    position: relative;
+    /*float: right;*/
+    /* display: inline-block; */
+    /* vertical-align: top; */
+    /* clear: none; */
+    margin: auto;
+    /*margin-right: 1em;*/
+    padding: 5px;
+    width: 65%;
+    border: thick solid LightSlateGray;
+    color: #035bad;
+    margin-bottom: 5px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 15px;
 }
 
 /*
