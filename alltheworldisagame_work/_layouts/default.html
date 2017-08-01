@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+    
+    <main class="page-content" aria-label="Content">
+      <div class="container">
+      <div class="side-bar-left">  
+          <h2 >Previous Posts</h2>
+          <ul>
+            {% for post in site.posts %}
+             <li>
+                <a href="{{ site.url | append: site.baseurl | append: post.url }}">{{ post.title }} {{post.date | slice: 0, 10}}</a>
+             </li>
+            {% endfor %}
+          </ul>
+     </div>
+     <div class="side-bar-right">  
+        <h2><a href="{{site.url | append: site.baseurl | append: '/chessboard.html'}}">The Current State of the Chessboard</a></h2>
+        {% img {{site.url | append: site.baseurl}}/assets/main-map_xtra_small.jpg 200px 233px "Main map" %}
+        <p><a href="{{site.url | append: site.baseurl |append: '/chessboard.html'}}">Click here to enlarge</a></p>
+         <!-- <img src="../assets/main-map.jpg" alt="Main map" style="width:364px;height:559px;"> -->
+        <h2>Articles</h2>
+        <p><a href="{{ site.url | append: site.baseurl | append: '/battleground_countries-egypt.html'}}">Battleground Countries: Egypt</a></p>
+        <p><a href="{{ site.url | append: site.baseurl | append: '/managed_chaos.html'}}">US Foreign Policy: Managed Chaos</a></p>
+        <p><a href="{{ site.url | append: site.baseurl | append: '/understanding_qatar.html'}}">Understanding Qatar and Islamists</a></p>
+     </div> 
+     <div class="wrapper2">
+       {{ content }}
+        
+    </div>
+
+    
+        
+     <!-- <div id="clear"></div> -->
+      </div>
+        
+    </main>
+
+    
+  
+    {% include footer.html %}
+
+  </body>
+
+</html>
