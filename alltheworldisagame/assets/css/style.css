@@ -135,6 +135,7 @@ causes a white rectangular block to appear down the right side of the website.
   @extend %clearfix;
   font-family: 'Alegreya', serif;
   width: 45%;
+  font-size: 120%;
 
   /*@include media-query($on-laptop) {
     /*max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
