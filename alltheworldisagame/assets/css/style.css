@@ -9,6 +9,7 @@ body {
     background-color: black;
 }
 
+
 .site-buttons {
     margin-top: 10px;
     margin-right: auto;
@@ -96,7 +97,7 @@ causes a white rectangular block to appear down the right side of the website.
     margin: auto;
     margin-right: 1em;
     padding: 5px;
-    width: 20%;
+    width: 21%;
     border: thick solid LightSlateGray;
     color: #035bad; 
     text-align: center;
@@ -113,7 +114,7 @@ causes a white rectangular block to appear down the right side of the website.
     margin: auto;
     margin-left: 1em;
     padding: 5px;
-    width: 20%;
+    width: 21%;
     color: #035bad;
 }
 
@@ -135,7 +136,7 @@ causes a white rectangular block to appear down the right side of the website.
   @extend %clearfix;
   font-family: 'Alegreya', serif;
   width: 45%;
-  font-size: 120%;
+  font-size: 110%;
 
   /*@include media-query($on-laptop) {
     /*max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
@@ -164,16 +165,17 @@ causes a white rectangular block to appear down the right side of the website.
     font-family: 'Alegreya', serif;
     color: #035bad;
     background-color:antiquewhite;
-    padding: 10px;
     margin: auto;
     position: relative;
     text-align: center;
+    width: 100%;
 }
 
 .chessboard img {
        padding: 10px;
+       width: 85%;
 }
-
+/*
 .latest {
     font-family: 'Alegreya', serif;
     background-color:antiquewhite;
@@ -217,7 +219,7 @@ causes a white rectangular block to appear down the right side of the website.
     background-color: #095987;
     color:white;
 }
-
+*/
 .article {
     text-align: left;
     background-color:antiquewhite;
@@ -229,17 +231,18 @@ causes a white rectangular block to appear down the right side of the website.
     /* clear: none; */
     margin: auto;
     /*margin-right: 1em;*/
-    padding: 5px;
-    width: 65%;
-    border: thick solid LightSlateGray;
+    width: 85%;
+    /*border: thick solid LightSlateGray;*/
     color: #035bad;
-    margin-bottom: 5px;
-    padding-right: 15px;
-    padding-left: 15px;
-    padding-top: 10px;
-    padding-bottom: 15px;
+    font-size: 110%;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
 }
-
+.article a {
+    color: blue;
+}
 /*
 #clear {
     clear: both;
