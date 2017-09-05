@@ -166,9 +166,10 @@ causes a white rectangular block to appear down the right side of the website.
     color: #035bad;
     background-color:antiquewhite;
     margin: auto;
-    position: relative;
     text-align: center;
-    width: 100%;
+    width: 70%;
+    border: thick solid LightSlateGray;
+    margin-right: 1em;
 }
 
 .chessboard img {
@@ -222,17 +223,7 @@ causes a white rectangular block to appear down the right side of the website.
 */
 .article {
     text-align: left;
-    background-color:antiquewhite;
-    font-family: 'Alegreya', serif;
-    position: relative;
-    /*float: right;*/
-    /* display: inline-block; */
-    /* vertical-align: top; */
-    /* clear: none; */
     margin: auto;
-    /*margin-right: 1em;*/
-    width: 85%;
-    /*border: thick solid LightSlateGray;*/
     color: #035bad;
     font-size: 110%;
     padding-right: 25px;
